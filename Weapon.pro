@@ -14,7 +14,12 @@ SOURCES += main.cpp \
     swordbehavior.cpp \
     bowandarrowbehavior.cpp \
     axebehavior.cpp \
-    knifebehavior.cpp
+    knifebehavior.cpp \
+    character.cpp \
+    king.cpp \
+    queen.cpp \
+    troll.cpp \
+    knight.cpp
 
 # The following define makes your compiler emit warnings if you use
 # any feature of Qt which as been marked deprecated (the exact warnings
@@ -32,4 +37,9 @@ HEADERS += \
     swordbehavior.h \
     bowandarrowbehavior.h \
     axebehavior.h \
-    knifebehavior.h
+    knifebehavior.h \
+    character.h \
+    king.h \
+    queen.h \
+    troll.h \
+    knight.h
